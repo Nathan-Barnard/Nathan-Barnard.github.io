@@ -1,9 +1,7 @@
 ---
-title: Nathan Barnard
+title: Home
 ---
 
-# Nathan Barnard
-
-Hi! I'm Nathan, I'm an economist working on issues around AI and automation. 
+Hi! I’m an economist working on issues around AI and automation.
 
 Email: nathan.barnard2@gmail.com
